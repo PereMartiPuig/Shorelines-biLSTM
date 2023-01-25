@@ -18,8 +18,8 @@ Tasks performed by shorelines_demo.m
 
 	name: name of the image 
 	xy_FR: points introduced by marker #1 
-	xy_GS: points entered by marker #1 
-	xy_JA: points entered by marker #1 
+	xy_GS: points entered by marker #2 
+	xy_JA: points entered by marker #3 
                s_FR: interpolation made from points on scoreboard #1 
                s_GS: interpolation made from points in marker #2 
 	s_JA: interpolation made from points in marker #3 
